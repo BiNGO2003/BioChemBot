@@ -1,0 +1,75 @@
+{
+  "quizzes": {
+    "D33D2E5A": {
+      "id": "D33D2E5A",
+      "teacher_id": 1381276020,
+      "title": "Биология",
+      "description": "Зоология",
+      "subject": "bio",
+      "class_grade": "7",
+      "level": "medium",
+      "time_limit": 10,
+      "questions": [
+        {
+          "text": "Что такое клетка?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Лададал"
+            },
+            {
+              "letter": "B",
+              "text": "Оаоалла"
+            },
+            {
+              "letter": "C",
+              "text": "Плллаа"
+            },
+            {
+              "letter": "D",
+              "text": "Алалла"
+            }
+          ],
+          "correct": "A"
+        }
+      ],
+      "created_at": "28.05.2026 18:31",
+      "active": true
+    }
+  },
+  "results": {
+    "8754650920": [
+      {
+        "quiz_id": "D33D2E5A",
+        "quiz_title": "Биология",
+        "correct": 1,
+        "total": 1,
+        "percent": 100,
+        "grade": "⭐️⭐️⭐️ Отлично",
+        "time_spent": 0.1,
+        "date": "28.05.2026 18:36",
+        "answers": [
+          {
+            "q": "Что такое клетка?",
+            "chosen": "A",
+            "correct": "A",
+            "ok": true
+          }
+        ]
+      }
+    ]
+  },
+  "users": {
+    "1381276020": {
+      "name": "Авазбек Рустамов",
+      "class_grade": "9",
+      "registered_at": "28.05.2026"
+    },
+    "8754650920": {
+      "name": "123456789",
+      "class_grade": "11",
+      "registered_at": "28.05.2026"
+    }
+  },
+  "sessions": {}
+}
