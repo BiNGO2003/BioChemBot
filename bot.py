@@ -24,7 +24,7 @@ from collections import defaultdict
 
 # ─── НАСТРОЙКИ ────────────────────────────────────────────────────────────────
 TOKEN = "8916131771:AAHQy8Z2uHvfbBS2pyKGA3ufLnhX_EAgsZg"          # Токен от @BotFather
-TEACHER_ID = 1381276020              # Ваш Telegram ID (узнать: @userinfobot)
+TEACHER_ID = 6638935086              # Ваш Telegram ID (узнать: @userinfobot)
 DATA_FILE = "quiz_data.json"
 # ──────────────────────────────────────────────────────────────────────────────
 
